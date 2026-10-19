@@ -39,7 +39,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 - **Data Analysis**: Pandas | Numpy | Scipy
 - **Development**: Streamlit | FastAPI | Flask
 - **Agentic AI**: LangChain | LangGraph 
-  
+
+## Certifications:
+- <a href="https://learn.microsoft.com/api/credentials/share/en-in/RuchaKudale-0056/E4CFA136FFE68274?sharingId=D2DD5ABABED764CB">Microsoft Certified: Azure Data Fundamentals</a>
+- <a href="https://learn.microsoft.com/api/credentials/share/en-in/RuchaKudale-0056/F1DCF0AB608BE745?sharingId=D2DD5ABABED764CB">Microsoft Certified: Azure Fundamentals</a>
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ruchakudale&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchakudale&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
