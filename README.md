@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 - <a href="https://learn.microsoft.com/api/credentials/share/en-in/RuchaKudale-0056/F1DCF0AB608BE745?sharingId=D2DD5ABABED764CB">Microsoft Certified: Azure Fundamentals</a>
 - <a href="https://www.datacamp.com/certificate/AEDS0011739745414">DataCamp: AI Engineer for Data Scientists Associate</a>
 - <a href="https://www.datacamp.com/skill-verification/AIF0021878077894">DataCamp: AI Fundamentals </a>
-
+- <a href="https://www.zenclass.in/certificateDownload/j3qrEA7OPzw9xbnA">Intel & IITM Pravartak Certified Artificial Intelligence and Machine Learning Program</a>
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ruchakudale&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchakudale&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
